@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Haloer-kay</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-03-07T11:54:48.632Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Haloer-kay</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://example.com/2022/03/07/index/"/>
+    <id>http://example.com/2022/03/07/index/</id>
+    <published>2022-03-06T16:00:00.000Z</published>
+    <updated>2022-03-07T11:54:48.632Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>博客内容！！！</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;博客内容！！！&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="study" scheme="http://example.com/tags/study/"/>
+    
+  </entry>
+  
+</feed>
